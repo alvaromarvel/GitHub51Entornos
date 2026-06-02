@@ -1,0 +1,7 @@
+G-
+Si desaparece lo nuevo, no hay información de las revisiones posteriores, pero al hacer
+git checkout master volvió a aparecer todo.
+
+H-
+Veo nbproject,src,.gitignore,build.xml,manifest.mf.
+No veo build ni el dist porque están ignorados en .gitignore
