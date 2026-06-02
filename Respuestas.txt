@@ -5,3 +5,16 @@ git checkout master volvió a aparecer todo.
 H-
 Veo nbproject,src,.gitignore,build.xml,manifest.mf.
 No veo build ni el dist porque están ignorados en .gitignore
+
+I-
+Que se ha creado un readme.md
+
+M-
+Si se puede
+
+N-
+Da conflicto porque en la misma linea tengo un comentario en rama1 y en rama2
+
+Ñ-
+Pues desde NetBeans al mergear las dos me sale como un head y me dice que hacer con ella
+mi solución fue quedarme con las dos cosas.
